@@ -1,2 +1,2 @@
-# OctaNet.Intership
+# OctaNet.Internship
 code
